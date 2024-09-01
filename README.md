@@ -1,4 +1,4 @@
-#InsurancePolicy
+**#InsurancePolicy**
 #Project - overview
 
 This Spring Boot application is designed to manage customers and their insurance policies using JPA and MySQL. It includes functionalities for customer registration, policy management, and interactions between customers and insurance policy providers. The system allows customers to create, update, renew, and claim policies, while insurance providers can manage policy availability and expiration. Additionally, the project features endpoints for searching and updating customer details, as well as checking policy status and eligibility. Dockrize the application with needed dependencies and deployed into heroku
