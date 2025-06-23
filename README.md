@@ -9,7 +9,6 @@ This Spring Boot application is designed to manage customers and their insurance
 
 -Database: MySQL(Docker)
 
--Security: Spring Security
 
 -Testing: JUnit, Mockito
 
